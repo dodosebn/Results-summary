@@ -60,8 +60,8 @@ border-radius: 100vw;
 ## Author
 
 - Website - [Orji Dominion Ebubennia](https://www.your-site.com)
-- Frontend Mentor - [@dodosebn](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@dodosebn](https://www.twitter.com/yourusername)
+- Frontend Mentor - [dodosebn](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [dodosebn](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 I want to thank the Lord almighty for everything...
